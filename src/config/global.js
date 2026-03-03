@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Cuentas contables: normatividad y conceptos generales.',
     Description:
-      'Este componente formativo ha sido diseñado para el dominio de la estructura contable en el contexto colombiano. Por medio de su contenido, usted podrá profundizar en el marco normativo vigente, la aplicación ética de los principios contables y el manejo del Plan Único de Cuentas (PUC). También, aborda de manera práctica el esquema de la cuenta T y los criterios fundamentales para la clasificación de las cuentas, elementos esenciales para garantizar procesos de registro precisos y transparentes en cualquier organización.',
+      'Este componente formativo ha sido diseñado para el dominio de la estructura contable en el contexto colombiano. Por medio de su contenido, usted podrá profundizar en el marco normativo vigente, la aplicación ética de los principios contables y el manejo del Plan Único de Cuentas (PUC). También; aborda de manera práctica el esquema de la cuenta T y los criterios fundamentales para la clasificación de las cuentas, elementos esenciales para garantizar procesos de registro precisos y transparentes en cualquier organización.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -72,7 +72,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Estructura del <em>PUC</em>',
+            titulo: 'Estructura del PUC',
             hash: 't_3_1',
           },
           {
@@ -91,7 +91,7 @@ export default {
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Registro en la Cuenta T',
+            titulo: 'Registro en la cuenta T',
             hash: 't_4_1',
           },
           {
@@ -234,7 +234,7 @@ export default {
     {
       termino: 'Pasivo',
       significado:
-        'recursos que representan los convenios de la entidad económica en desarrollo de los compromisos monetarios para aportar dinero, bienes o servicios.',
+        'Recursos que representan los convenios de la entidad económica en desarrollo de los compromisos monetarios para aportar dinero, bienes o servicios.',
     },
     {
       termino: 'Patrimonio neto',

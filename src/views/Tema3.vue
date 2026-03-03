@@ -87,7 +87,7 @@
       .col-xl-4
         img.d-xl-flex.d-none(src="@/assets/curso/tema3/4.svg", style="max-width: 90px").mb-3
         .bg-color-6.p-3.px-lg-5
-          p.mb-0 Está conformado por un catálogo de cuentas, con su respectiva descripción y dinámica para aplicarlas en el ejercicio contables de todas las operaciones y transacciones de las organizaciones. Se clasifican de la siguiente manera:
+          p.mb-0 Está conformado por un catálogo de cuentas, con su respectiva descripción y dinámica para aplicarlas en el ejercicio contable de todas las operaciones y transacciones de las organizaciones. Se clasifican de la siguiente manera:
     
     .bg-full-width.bg-fondo-1
       .px-4.px-md-5.py-4
@@ -104,14 +104,14 @@
               .col-5
                 img(src='@/assets/curso/tema3/6.svg' alt='AvatarTop')
             h2.text-center Pasivo
-            p.text-center recursos que representan los convenios de la entidad económica en desarrollo de los compromisos monetarios para aportar dinero, bienes o servicios.
+            p.text-center Recursos que representan los convenios de la entidad económica en desarrollo de los compromisos monetarios para aportar dinero, bienes o servicios.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-5
                 img(src='@/assets/curso/tema3/7.svg' alt='AvatarTop')
             h2.text-center Patrimonio neto 
-            p.text-center Valor total de una empresa luego que se descuentan las deudas.
+            p.text-center Valor total de una empresa luego de que se descuentan las deudas.
           
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
@@ -163,7 +163,7 @@
               p.mb-0 El primer dígito.
           .col-lg-3.mb-3.mb-lg-0(data-aos="fade-down")
             .bg-color-7.text-center.p-4.h-100
-              h5 Representación
+              h5 Grupo
               p.mb-0 Los dos primeros dígitos.
           .col-lg-3.mb-3.mb-lg-0(data-aos="fade-up")
             .bg-color-7.text-center.p-4.h-100

@@ -9,7 +9,7 @@
     
     .bg-full-width.bg-color-3
       .px-4.px-md-5.py-4
-        p.mb-5 Estas cuentas las conforman las del activo, pasivo y patrimonio, con las cuales, se realiza el balance general. Estas reflejan el estado real de una empresa y permiten llevar un control financiero de la empresa para la toma de decisiones.
+        p.mb-5 Estas cuentas las conforman las del activo, pasivo y patrimonio, con las cuales se realiza el balance general. Estas reflejan el estado real de una empresa y permiten llevar un control financiero de la empresa para la toma de decisiones.
 
         separador
         
@@ -17,7 +17,7 @@
           h2 6.1 Concepto
         
         .bg-color-4.p-4.mb-5
-          p.mb-0 Las cuentas reales o de balance representan valores tangibles como las propiedades, las deudas y el capital, formando parte de un estado financiero llamado: balance general, el cual es requerido en cualquier empresa y sirve de base para el análisis financiero y la toma de decisiones gerenciales.  Estas cuentas pueden corresponder a: activo, pasivo y patrimonio.
+          p.mb-0 Las cuentas reales o de balance representan valores tangibles como las propiedades, las deudas y el capital, formando parte de un estado financiero llamado: balance general, el cual es requerido en cualquier empresa y sirve de base para el análisis financiero y la toma de decisiones gerenciales.  Estas cuentas pueden corresponder a activo, pasivo y patrimonio.
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-md-8.col-lg-6
@@ -31,7 +31,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-md-0
             h4 Activo
-            p Son los bienes y derechos de la empresa, que pueden generar dinero o ingresos en el futuro, por lo cual, ofrecen beneficios económicos.
+            p Son los bienes y derechos de la empresa, que pueden generar dinero o ingresos en el futuro, por lo cual ofrecen beneficios económicos.
             p El dinero en caja o en bancos, las mercancías, los muebles y los vehículos, por ejemplo, son bienes.  Las cuentas por cobrar y los créditos son derechos que puede poseer una empresa.
             p Se clasifican en:
             ul.lista-ul--color
@@ -40,7 +40,7 @@
                 p.mb-0 <b>Activo corriente</b>: son con los que cuenta una empresa en un periodo inferior a un año.
               li.mb-3.d-flex
                 i.fas.fa-circle-check.bg-color-2
-                p.mb-0 <b>Activo no corriente</b>: son los que posiblemente se conviertan en efectivo, en un periodo superior a un año
+                p.mb-0 <b>Activo no corriente</b>: son los que posiblemente se conviertan en efectivo en un periodo superior a un año.
              
           .col-lg-5.mb-3.mb-lg-0
             figure
@@ -49,7 +49,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-md-0
             h4 Pasivo
-            p Constituyen las obligaciones contraídas por cualquier concepto para que ser pagadas a terceros en el futuro y se clasifican en:
+            p Constituyen las obligaciones contraídas por cualquier concepto para ser pagadas a terceros en el futuro y se clasifican en:
             ul.lista-ul--color
               li.mb-3.d-flex
                 i.fas.fa-circle-check.bg-color-2
@@ -64,8 +64,8 @@
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-md-0
             h4 Patrimonio
-            p El valor resultante de la diferencia entre el activo y el pasivo. Dentro de este se encuentran los aportes de los propietarios para crear la empresa, tales como, el capital o bienes aportados; asimismo, incluye las utilidades y reservas.
-            p Es una obligación interna de la empresa a favor de los dueños, por lo cual, su naturaleza es igual a la del pasivo.
+            p El valor resultante de la diferencia entre el activo y el pasivo. Dentro de este se encuentran los aportes de los propietarios para crear la empresa, tales como el capital o bienes aportados; asimismo, incluye las utilidades y reservas.
+            p Es una obligación interna de la empresa a favor de los dueños, por lo cual su naturaleza es igual a la del pasivo.
           .col-lg-5.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema6/4.png', alt='Imagen de acompañamiento')
@@ -164,7 +164,7 @@
         #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 6.2 Características
         
-        p.mb-5 Para comprender la estructura financiera de cualquier entidad, es fundamental distinguir las características del activo, el pasivo y el patrimonio, por lo cual, se estudirarán cada una de estas.
+        p.mb-5 Para comprender la estructura financiera de cualquier entidad, es fundamental distinguir las características del activo, el pasivo y el patrimonio,  se estudirará cada una de estas.
 
         .row.mb-5.justify-content-center
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
@@ -177,7 +177,7 @@
                   figure
                     img(src='@/assets/curso/tema6/6.svg', alt='Texto que describa la imagen')
 
-              h3.mb-4.text-center Características del Activo
+              h3.mb-4.text-center Características del activo
               ul.lista-ul--color.ms-3
                 li.mb-3.d-flex
                   i.fas.fa-circle-check.bg-color-2
@@ -207,7 +207,7 @@
                   p.mb-0 Esta tiene que haberse causado: contabilizarla para luego hacer el pago.
                 li.mb-3.d-flex
                   i.fas.fa-circle-check.bg-color-2
-                  p.mb-0 Que el tercero quien se le debe sea real.
+                  p.mb-0 Que el tercero quien se le deba sea real.
              
           
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")

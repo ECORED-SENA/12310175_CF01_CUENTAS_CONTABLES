@@ -20,7 +20,7 @@
             figure
               img(src="@/assets/curso/tema4/1.svg", alt="Esquema contable que representa la estructura básica de una cuenta, dividida en lado débito y lado crédito, donde se registran movimientos y saldos según aumentos o disminuciones, diferenciando débitos y créditos para organizar la información financiera de la empresa correctamente.", data-aos="zoom-in")
           .col-lg-7
-            p La cuenta T es una herramienta práctica para registrar los hechos económicos, mediante lo cual, se visualiza el “debe” y el “haber” de cada cuenta contable.
+            p La cuenta T es una herramienta práctica para registrar los hechos económicos, mediante la cual, se visualiza el “debe” y el “haber” de cada cuenta contable.
             .bg-color-5.px-5.py-4
               p Aspectos:
               ul.lista-ul--color.mb-0
@@ -83,7 +83,7 @@
                     td Es el registro de un valor en el lado derecho, es decir, en la columna del haber, de una cuenta.
                   tr.bg-color-sintesis
                     td.text-bold Movimiento débito
-                    td Este es la suma de valores registrados en la columna del debe de una cuenta.
+                    td Esta es la suma de valores registrados en la columna del debe de una cuenta.
                   tr.bg-color-white
                     td.text-bold Movimiento crédito
                     td Es la suma de valores registrados en la columna del haber de una cuenta.

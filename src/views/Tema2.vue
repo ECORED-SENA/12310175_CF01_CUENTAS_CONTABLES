@@ -52,14 +52,14 @@
                 img(src='@/assets/curso/tema2/6.png', alt='Imagen de acompañamiento')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 El principio de conservatismo o criterio prudencial. 
-              p.mb-0 Orienta al contador a seleccionar la opción más prudente ante diversas alternativas, estableciendo que las pérdidas deben reconocerse tan pronto se conocen, mientras que los ingresos solo se contabilizan cuando efectivamente se realizan. Este criterio busca un equilibrio técnico, impidiendo tanto el manejo ultraconservador como el excesivamente liberal de las cifras. El objetivo final es garantizar que los estados financieros reflejen los resultados de operación y la situación patrimonial de la manera más veraz y objetiva posible
+              p.mb-0 Orienta al contador a seleccionar la opción más prudente ante diversas alternativas, estableciendo que las pérdidas deben reconocerse tan pronto se conocen, mientras que los ingresos solo se contabilizan cuando efectivamente se realizan. Este criterio busca un equilibrio técnico, impidiendo tanto el manejo ultraconservador como el excesivamente liberal de las cifras. El objetivo final es garantizar que los estados financieros reflejen los resultados de operación y la situación patrimonial de la manera más veraz y objetiva posible.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
                 img(src='@/assets/curso/tema2/7.png', alt='Imagen de acompañamiento')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 El principio de costo. 
-              p.mb-0 Este principio exige objetividad en el registro de las transacciones, fundamentando cada operación en comprobantes o documentos de soporte válidos. Dicha evidencia documental no solo respalda la veracidad de las deducciones, sino que constituye la base técnica indispensable para facilitar los procesos de auditoría y control contable
+              p.mb-0 Este principio exige objetividad en el registro de las transacciones, fundamentando cada operación en comprobantes o documentos de soporte válidos. Dicha evidencia documental no solo respalda la veracidad de las deducciones, sino que constituye la base técnica indispensable para facilitar los procesos de auditoría y control contable.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
@@ -73,7 +73,7 @@
                 img(src='@/assets/curso/tema2/9.png', alt='Imagen de acompañamiento')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 El  principio  de  la  unidad  monetaria. 
-              p.mb-0 Este principio es objeto de debate, pues asume de forma estática que el poder adquisitivo de la moneda permanece invariable a través del tiempo. Bajo esta lógica, el contador que rechaza la revaluación de activos fijos basándose en este criterio, caería en una contradicción al pretender ajustar sus honorarios profesionales frente a la realidad económica inflacionaria
+              p.mb-0 Este principio es objeto de debate, pues asume de forma estática que el poder adquisitivo de la moneda permanece invariable a través del tiempo. Bajo esta lógica, el contador que rechaza la revaluación de activos fijos basándose en este criterio, caería en una contradicción al pretender ajustar sus honorarios profesionales frente a la realidad económica inflacionaria.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure

@@ -16,7 +16,7 @@
           .col-lg-7.order-lg-1
             p Representan los derechos, bienes y obligaciones que la empresa tiene en una fecha determinada.
             .bg-color-1.px-5.py-4.mb-3
-              p.mb-0 Las cuentas se clasifican de acuerdo con la naturaleza en: reales o de balance, nominales o de ganancias; y de pérdidas o de orden. 
+              p.mb-0 Las cuentas se clasifican de acuerdo con la naturaleza en: reales o de balance, nominales o de ganancias y de pérdidas o de orden. 
             .row.justify-content-center.align-items-center.z-2.mb-5
               .col-lg-11
                 .titulo-sexto.color-acento-contenido.mb-4

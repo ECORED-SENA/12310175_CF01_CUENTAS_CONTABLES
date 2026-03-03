@@ -41,7 +41,7 @@
                         p.mb-2 <b>El 2160 de 1986</b>, relacionado con los principios de contabilidad.
                       li.mb-3.d-flex
                         i.fas.fa-circle-check.bg-color-2
-                        p.mb-2 <b>El 1798 de 1990</b> que habla del registro y libros contables. 
+                        p.mb-2 <b>El 1798 de 1990</b>, que habla del registro y libros contables. 
                       li.mb-3.d-flex
                         i.fas.fa-circle-check.bg-color-2
                         p.mb-2 <b>El 2912 de 1991</b>, cuyo tema es el ajuste integral por inflación para efectos contables.  
@@ -51,7 +51,7 @@
         #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 1.2 Decreto 2650 de 1993 
         
-    p.mb-5 Hace referencia al Plan Único de Cuentas (PUC), el cual, es creado para armonizar y unificar el sistema contable de los principales sectores económicos del país.
+    p.mb-5 Hace referencia al Plan Único de Cuentas (PUC), el cual es creado para armonizar y unificar el sistema contable de los principales sectores económicos del país.
 
     .bg-full-width.bg-color-3
       .px-4.px-md-5.py-4
@@ -64,14 +64,14 @@
                     img(src='@/assets/curso/tema1/3.png', alt='alt')
                 .col-lg
                   .p-4
-                    p.mb-0(data-aos="fade-up") Este decreto tiene un fundamento legal en la norma técnica de clasificación de los hechos económicos, el cual se establece en el artículo 53 de Decreto Reglamentario 2649 de 1993.
+                    p.mb-0(data-aos="fade-up") Este decreto tiene un fundamento legal en la norma técnica de clasificación de los hechos económicos, el cual se establece en el artículo 53 del Decreto Reglamentario 2649 de 1993.
         
         separador
         
         #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 1.3 Ley 43 de 1990
 
-        p.mb-5 Coneptua de manera clara la profesión contable y la labor del contador público.
+        p.mb-5 Conceptúa de manera clara la profesión contable y la labor del contador público.
 
         
         .row.justify-content-center.align-items-center.mb-5.align-items-center
