@@ -164,7 +164,7 @@
         #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 6.2 Características
         
-        p.mb-5 Para comprender la estructura financiera de cualquier entidad, es fundamental distinguir las características del activo, el pasivo y el patrimonio,  se estudirará cada una de estas.
+        p.mb-5 Para comprender la estructura financiera de cualquier entidad, es fundamental distinguir las características del activo, el pasivo y el patrimonio, por lo cual se estudirá cada una de estas.
 
         .row.mb-5.justify-content-center
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
@@ -207,7 +207,7 @@
                   p.mb-0 Esta tiene que haberse causado: contabilizarla para luego hacer el pago.
                 li.mb-3.d-flex
                   i.fas.fa-circle-check.bg-color-2
-                  p.mb-0 Que el tercero quien se le deba sea real.
+                  p.mb-0 Que el tercero a quien se le deba sea real.
              
           
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
