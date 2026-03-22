@@ -20,7 +20,7 @@
             figure
               img(src="@/assets/curso/tema4/1.svg", alt="Esquema contable que representa la estructura básica de una cuenta, dividida en lado débito y lado crédito, donde se registran movimientos y saldos según aumentos o disminuciones, diferenciando débitos y créditos para organizar la información financiera de la empresa correctamente.", data-aos="zoom-in")
           .col-lg-7
-            p La cuenta T es una herramienta práctica para registrar los hechos económicos, mediante la cual, se visualiza el “debe” y el “haber” de cada cuenta contable.
+            p La cuenta T es una herramienta práctica para registrar los hechos económicos, mediante la cual se visualiza el “debe” y el “haber” de cada cuenta contable.
             .bg-color-5.px-5.py-4
               p Aspectos:
               ul.lista-ul--color.mb-0
@@ -54,7 +54,7 @@
                 h2.text-white(data-aos="fade-left").mb-4 Pódcast
         
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                  texto="El ritmo de la cuenta T: Débitos, créditos y saldos"
+                  texto=" El ritmo de la cuenta T: Débitos, créditos y saldos"
                   tiempo
                   :audio="require('../assets/curso/podcast/cuentas_contables.mp3')"
                 )

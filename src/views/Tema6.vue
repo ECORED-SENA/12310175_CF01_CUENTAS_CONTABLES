@@ -17,7 +17,7 @@
           h2 6.1 Concepto
         
         .bg-color-4.p-4.mb-5
-          p.mb-0 Las cuentas reales o de balance representan valores tangibles como las propiedades, las deudas y el capital, formando parte de un estado financiero llamado: balance general, el cual es requerido en cualquier empresa y sirve de base para el análisis financiero y la toma de decisiones gerenciales.  Estas cuentas pueden corresponder a activo, pasivo y patrimonio.
+          p.mb-0 Las cuentas reales o de balance representan valores tangibles como las propiedades, las deudas y el capital, formando parte de un estado financiero llamado balance general, el cual es requerido en cualquier empresa y sirve de base para el análisis financiero y la toma de decisiones gerenciales.  Estas cuentas pueden corresponder a activo, pasivo y patrimonio.
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-md-8.col-lg-6
@@ -148,7 +148,7 @@
                     td Útiles para calcular la brecha financiera, el endeudamiento general y a corto plazo.
                     td Útiles para calcular el endeudamiento general y la solvencia, especialmente en hipotecas o prendas.
     
-    p.mb-5 Para cerrar esta fase del contenido conoceremos las cuentas del patrimonio.
+    p.mb-5 Para cerrar esta fase del contenido, conoceremos las cuentas del patrimonio.
     
     .bg-full-width.bg-color-3
       .px-4.px-md-5.py-4
@@ -164,7 +164,7 @@
         #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 6.2 Características
         
-        p.mb-5 Para comprender la estructura financiera de cualquier entidad, es fundamental distinguir las características del activo, el pasivo y el patrimonio, por lo cual se estudirá cada una de estas.
+        p.mb-5 Para comprender la estructura financiera de cualquier entidad, es fundamental distinguir las características del activo, el pasivo y el patrimonio, por lo cual se estudiará cada una de estas.
 
         .row.mb-5.justify-content-center
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
@@ -242,7 +242,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               .titulo-sexto.color-acento-contenido.mb-4
-                h5 Figura 7.
+                h5 Figura 5.
                 span Cuentas de activo
               figure
                 img(src='@/assets/curso/tema6/9.svg', alt='La ilustración diagrama las cuentas de activo con su comportamiento contable: el valor inicial y los aumentos se registran en el debe, mientras las disminuciones se contabilizan en el haber, reflejando el movimiento y saldo de los recursos.')
@@ -252,7 +252,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               .titulo-sexto.color-acento-contenido.mb-4
-                h5 Figura 8.
+                h5 Figura 6.
                 span Cuentas de pasivo
               figure
                 img(src='@/assets/curso/tema6/10.svg', alt='Esquema explicativo sobre el funcionamiento de las cuentas de pasivo. Indica que el valor inicial y los incrementos se registran en el haber, mientras las disminuciones o cancelaciones se contabilizan en el debe, representando las obligaciones financieras de la entidad.')
@@ -262,7 +262,7 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               .titulo-sexto.color-acento-contenido.mb-4
-                h5 Figura 9.
+                h5 Figura 7.
                 span Cuentas de patrimonio
               figure
                 img(src='@/assets/curso/tema6/11.svg', alt='Representación del funcionamiento de la cuenta de patrimonio. En el debe se registran disminuciones, pérdidas y retiros de capital; en el haber, aumentos, aportes de socios y utilidades. Su saldo normal es crédito, reflejando los recursos propios.')

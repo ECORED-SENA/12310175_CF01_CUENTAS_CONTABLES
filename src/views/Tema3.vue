@@ -15,14 +15,14 @@
               img(src="@/assets/curso/tema3/1.png", data-aos="zoom-in")
           .col-lg-9.order-lg-1
             .bg-color-4.px-5.py-4
-              p.mb-0 Está consagrado en el Decreto 2649 de 1993 y permite dar un conocimiento en la realización de la actividad contable, es decir que en todas sus transacciones y operaciones hay claridad en la información correspondiente. En el plan de cuentas deberá identificar cuál es el tipo de cuenta para la confección de los balances, mensuales o anuales.
+              p.mb-0 Está consagrado en el Decreto 2649 de 1993 y permite dar un conocimiento en la realización de la actividad contable, es decir, que en todas sus transacciones y operaciones hay claridad en la información correspondiente. En el plan de cuentas deberá identificar cuál es el tipo de cuenta para la confección de los balances, mensuales o anuales.
         
         separador
         
         #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 3.1 Estructura del PUC
         
-        p.mb-5 Actualmente existen catorce planes únicos de cuentas los cuales son:
+        p.mb-5 Actualmente, existen catorce planes únicos de cuentas, los cuales son:
 
         .row.justify-content-center
           .col-xl-10
@@ -30,7 +30,7 @@
               .row.justify-content-center.align-items-center
                 .col-lg-auto
                   figure
-                    img(src='@/assets/curso/tema3/2.png', alt='alt')
+                    img(src='@/assets/curso/tema3/2.png', alt='')
                 .col-lg
                   .p-4
                     ul.lista-ul--color.mb-0
@@ -95,55 +95,55 @@
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-5
-                img(src='@/assets/curso/tema3/5.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/5.svg' alt='')
             h2.text-center Activo
             p.text-center Conjunto de bienes que constituyen una empresa, con el que se consiguen beneficios a presente o futuro, de acuerdo con su utilización.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-5
-                img(src='@/assets/curso/tema3/6.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/6.svg' alt='')
             h2.text-center Pasivo
             p.text-center Recursos que representan los convenios de la entidad económica en desarrollo de los compromisos monetarios para aportar dinero, bienes o servicios.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-5
-                img(src='@/assets/curso/tema3/7.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/7.svg' alt='')
             h2.text-center Patrimonio neto 
             p.text-center Valor total de una empresa luego de que se descuentan las deudas.
           
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-5
-                img(src='@/assets/curso/tema3/8.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/8.svg' alt='')
             h2.text-center Ingresos 
             p.text-center Hace referencia a las entradas económicas que percibe una persona natural, jurídica, una empresa, organización, gobierno, entre otros.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-5
-                img(src='@/assets/curso/tema3/9.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/9.svg' alt='')
             h2.text-center Gastos 
             p.text-center Se refiere al egreso o salida de dinero para el pago de un bien adquirido o un servicio prestado.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-5
-                img(src='@/assets/curso/tema3/10.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/10.svg' alt='')
             h2.text-center Costos de ventas
             p.text-center Es el valor generado por la venta y distribución de un producto o servicio.
           
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-5
-                img(src='@/assets/curso/tema3/11.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/11.svg' alt='')
             h2.text-center Costos de producción
             p.text-center Valor generado por la obtención de un bien.
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-5
-                img(src='@/assets/curso/tema3/12.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/12.svg' alt='')
             h2.text-center Costos de operación
             p.text-center Valor generado por el total de recursos destinados a la administración, operación y funcionamiento de una organización, empresa o entidad pública.
 
@@ -154,7 +154,7 @@
     
     .bg-full-width.bg-color-3
       .px-4.px-md-5.py-4
-        p.mb-5 Con base en el artículo 14 del Decreto 2650 la codificación del catálogo de cuentas se estructura sobre los siguientes niveles:
+        p.mb-5 Con base en el artículo 14 del Decreto 2650, la codificación del catálogo de cuentas se estructura sobre los siguientes niveles:
 
         .row.justify-content-center.mb-5
           .col-lg-3.mb-3.mb-lg-0(data-aos="fade-up")
@@ -220,21 +220,21 @@
                 .p-4.text-center
                   h5 Clase 6  
                   p.mb-0 Costos de ventas
-          .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-up")
+          .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-left")
             .tarjeta-avatar
               img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='AvatarTop')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 7
                   p.mb-0 Costos de producción o de operación
-          .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-down")
+          .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-right")
             .tarjeta-avatar
               img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='AvatarTop')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 8
                   p.mb-0 Cuentas de orden deudoras
-          .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-up")
+          .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-left")
             .tarjeta-avatar
               img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='AvatarTop')
               .tarjeta.color-acento-botones.bg-color-8
