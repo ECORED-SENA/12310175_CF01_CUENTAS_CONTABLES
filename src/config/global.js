@@ -164,7 +164,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/12310175_CF1_DU.pdf',
+        download: 'downloads/12310175_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -327,12 +327,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Líder del ecosistema',
           centro: 'Centro Agroturístico- Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
@@ -371,6 +371,12 @@ export default {
         {
           nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Juan Pablo Rojas Polania',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
