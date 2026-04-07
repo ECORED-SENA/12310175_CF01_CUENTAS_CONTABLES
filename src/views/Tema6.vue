@@ -44,7 +44,7 @@
              
           .col-lg-5.mb-3.mb-lg-0
             figure
-              img(src='@/assets/curso/tema6/2.png', alt='Imagen de acompañamiento')
+              img(src='@/assets/curso/tema6/2.png', alt='')
       .p-3.p-md-4(titulo="Pasivo")
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-md-0
