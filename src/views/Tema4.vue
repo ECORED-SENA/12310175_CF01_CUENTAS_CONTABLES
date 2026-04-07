@@ -103,7 +103,7 @@
             .row.mb-5
               .col-6.col-lg-3
                 figure
-                  img(src='@/assets/curso/tema4/4.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema4/4.svg', alt='')
               
             h2.mb-5 Saldo débito
             p Es el que resulta cuando el movimiento débito de una cuenta es superior al de crédito.
@@ -115,7 +115,7 @@
             .row.mb-5
               .col-6.col-lg-3
                 figure
-                  img(src='@/assets/curso/tema4/5.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema4/5.svg', alt='')
               
             h2.mb-5 Saldo crédito
             p Se habla de este tipo de saldo cuando el movimiento crédito supera al de débito.

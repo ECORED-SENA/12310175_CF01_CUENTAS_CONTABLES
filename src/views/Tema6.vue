@@ -59,7 +59,7 @@
                 p.mb-0 <b>Pasivo no corriente</b>: son las obligaciones y deudas que tiene la empresa, en un periodo superior a un año.
           .col-lg-5.mb-3.mb-lg-0
             figure
-              img(src='@/assets/curso/tema6/3.png', alt='Imagen de acompañamiento')
+              img(src='@/assets/curso/tema6/3.png', alt='')
       .p-3.p-md-4(titulo="Patrimonio")
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-md-0
@@ -68,7 +68,7 @@
             p Es una obligación interna de la empresa a favor de los dueños, por lo cual su naturaleza es igual a la del pasivo.
           .col-lg-5.mb-3.mb-lg-0
             figure
-              img(src='@/assets/curso/tema6/4.png', alt='Imagen de acompañamiento')
+              img(src='@/assets/curso/tema6/4.png', alt='')
     
     p.mb-5 A continuación, se conocerán las diferencias entre activo corriente y no corriente:
 
@@ -175,7 +175,7 @@
               .row.justify-content-center.mb-3
                 .col-4
                   figure
-                    img(src='@/assets/curso/tema6/6.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/tema6/6.svg', alt='')
 
               h3.mb-4.text-center Características del activo
               ul.lista-ul--color.ms-3
@@ -198,7 +198,7 @@
               .row.justify-content-center.mb-3
                 .col-4
                   figure
-                    img(src='@/assets/curso/tema6/7.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/tema6/7.svg', alt='')
 
               h3.mb-4.text-center Características del pasivo
               ul.lista-ul--color.ms-3
@@ -218,7 +218,7 @@
               .row.justify-content-center.mb-3
                 .col-4
                   figure
-                    img(src='@/assets/curso/tema6/8.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/tema6/8.svg', alt='')
 
               h3.mb-4.text-center Características del patrimonio
               ul.lista-ul--color.ms-3

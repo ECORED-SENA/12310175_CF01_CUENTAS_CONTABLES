@@ -179,35 +179,35 @@
         .row.justify-content-center.mb-3
           .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-up")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/13.svg', style="max-width: 76px" alt='AvatarTop')
+              img(src='@/assets/curso/tema3/13.svg', style="max-width: 76px" alt='')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 1
                   p.mb-0 Activo
           .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-down")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/14.svg', style="max-width: 76px" alt='AvatarTop')
+              img(src='@/assets/curso/tema3/14.svg', style="max-width: 76px" alt='')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 2
                   p.mb-0 Pasivo
           .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-up")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/15.svg', style="max-width: 76px" alt='AvatarTop')
+              img(src='@/assets/curso/tema3/15.svg', style="max-width: 76px" alt='')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 3
                   p.mb-0 Patrimonio
           .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-down")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='AvatarTop')
+              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 4
                   p.mb-0 Ingresos
           .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-up")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='AvatarTop')
+              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 5
@@ -215,28 +215,28 @@
         .row.justify-content-center.mb-5
           .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-down")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='AvatarTop')
+              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 6  
                   p.mb-0 Costos de ventas
           .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-left")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='AvatarTop')
+              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 7
                   p.mb-0 Costos de producción o de operación
           .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-right")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='AvatarTop')
+              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 8
                   p.mb-0 Cuentas de orden deudoras
           .col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-left")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='AvatarTop')
+              img(src='@/assets/curso/tema3/16.svg', style="max-width: 76px" alt='')
               .tarjeta.color-acento-botones.bg-color-8
                 .p-4.text-center
                   h5 Clase 9 

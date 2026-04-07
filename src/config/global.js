@@ -376,7 +376,7 @@ export default {
         },
         {
           nombre: 'Juan Pablo Rojas Polania',
-          cargo: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
