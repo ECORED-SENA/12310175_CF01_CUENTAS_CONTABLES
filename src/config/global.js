@@ -308,7 +308,6 @@ export default {
     {
       referencia:
         'Presidencia de la República de Colombia. (29 de diciembre de 1993). Decreto 2650 de 1993. Por el cual se modifica el Plan Único de Cuentas para los Comerciantes. Sistema Único de Información Normativa (SUIN-Juriscol).',
-      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1772403',
     },
     {
       referencia:
